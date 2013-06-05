@@ -5,7 +5,7 @@
 		<value>{$Templates}\main.template</value>
 	</attribute>
 	<attribute>
-		<name>Content</name>
+		<name>{$Content}</name>
 		<value>{$Templates}\Literature\</value>
 	</attribute>
 	<attribute>
