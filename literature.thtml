@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<attributes>
+	<attribute>
+		<name>mainTemplate</name>
+		<value>{$Templates}\main.template</value>
+	</attribute>
+	<attribute>
+		<name>Content</name>
+		<value>{$Templates}\Literature\</value>
+	</attribute>
+	<attribute>
+		<name>name</name>
+		<value>Литература</value>
+	</attribute>
+</attributes>
