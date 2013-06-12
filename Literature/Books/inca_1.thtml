@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<attributes>
+    <!--<template>{$Templates}\Literature\Book.template</template>-->
+    <attribute>
+        <name>{$Author}</name>
+        <value>Альперович М. С., Слезкин Л. Ю.</value>
+    </attribute>
+    <attribute>
+        <name>{$BookName}</name>
+        <value>История Латинской Америки (с древнейших времен до начала XX в.)</value>
+    </attribute>
+    <attribute>
+        <name>{$City}</name>
+        <value>М.</value>
+    </attribute>
+    <attribute>
+        <name>{$Publishing}</name>
+        <value>Высшая школа</value>
+    </attribute>
+    <attribute>
+        <name>{$Year}</name>
+        <value>1991</value>
+    </attribute>
+</attributes>
