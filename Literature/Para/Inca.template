@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <attributes>
-    <!--<template>{$Templates}\Literature\Book.template</template>-->
+    <template>{$Templates}\Literature\Book.template</template>
     <attribute>
-        <name>{$Title}</name>
+        <name>{$Name}</name>
         <value>Инки</value>
+    </attribute>
+    <attribute>
+        <name>{$BookName}</name>
+        <value>{$BasePath}\Literature\Books\</value>
+        <filter>*.thtml</filter>
     </attribute>
 </attributes>
