@@ -1,1 +1,1 @@
-<strong>{$Author}</strong>, <cite>{$BookName}</cite>., {$City}, <nobr>&laquo;{$Publishing}&raquo;</nobr>, {$Year}.
+<li><strong>{$Author}</strong>, <cite>{$BookName}</cite>., {$City}, <nobr>&laquo;{$Publishing}&raquo;</nobr>, {$Year}.</li>

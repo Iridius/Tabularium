@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <attributes>
-   <template>{$Templates}\Literature\Book.template</template>
+    <attribute>
+        <name>{$MainTemplate}</name>
+        <value>{$Templates}\Literature\Book.template</value>
+   </attribute>
     <attribute>
         <name>{$Author}</name>
         <value>Альперович М. С., Слезкин Л. Ю.</value>

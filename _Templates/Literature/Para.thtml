@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <attributes>
-    <template>{$Templates}\Para.template</template>            
     <attribute>
-        <tag>{$Name}</tag>
+        <name>{$MainTemplate}</name>
+        <value>{$Templates}\Literature\para.template</value>
+	</attribute>
+    <attribute>
         <value>{$BasePath}\Literature\Para\</value>
         <filter>*.template</filter>
     </attribute>
