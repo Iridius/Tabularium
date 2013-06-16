@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <attributes>
-	<template>{$Templates}\main.template</template>
+        <attribute>
+		<name>{$MainTemplate}</name>
+		<value>{$Templates}\main.template</value>
+	</attribute>
 	<attribute>
-		<tag>{$Content}</tag>
+		<name>{$Content}</name>
 		<value>{$Templates}\Literature\Para.thtml</value>
 	</attribute>
 </attributes>

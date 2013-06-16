@@ -6,11 +6,11 @@
    </attribute>
     <attribute>
         <name>{$Author}</name>
-        <value>Альперович М. С., Слезкин Л. Ю.</value>
+        <value>Боден Л.</value>
     </attribute>
     <attribute>
         <name>{$BookName}</name>
-        <value>История Латинской Америки (с древнейших времен до начала XX в.)</value>
+        <value>Инки. Быт. Культура. Религия.</value>
     </attribute>
     <attribute>
         <name>{$City}</name>
@@ -18,10 +18,10 @@
     </attribute>
     <attribute>
         <name>{$Publishing}</name>
-        <value>Высшая школа</value>
+        <value>Центрполиграф</value>
     </attribute>
     <attribute>
         <name>{$Year}</name>
-        <value>1991</value>
+        <value>2004</value>
     </attribute>
 </attributes>
