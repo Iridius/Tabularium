@@ -11,7 +11,7 @@
     <attribute>
         <name>{$Books}</name>
         <value>{$BasePath}\Literature\Books\</value>
-        <filter>*.thtml</filter>
+        <filter>thtml</filter>
         <template>{$Templates}\Literature\Book.template</template>
     </attribute>
 </attributes>

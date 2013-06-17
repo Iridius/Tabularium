@@ -6,6 +6,7 @@
 	</attribute>
 	<attribute>
 		<name>{$Content}</name>
-		<value>{$Templates}\Literature\Para.thtml</value>
+		<value>{$BasePath}\Literature\Para\</value>
+		<filter>thtml</filter>
 	</attribute>
 </attributes>
