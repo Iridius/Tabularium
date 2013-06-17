@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<attributes>
+    <attribute>
+        <name>{$MainTemplate}</name>
+        <value>{$Templates}\Literature\Book.template</value>
+   </attribute>
+    <attribute>
+        <name>{$Author}</name>
+        <value>Боден Л.</value>
+    </attribute>
+    <attribute>
+        <name>{$BookName}</name>
+        <value>Инки. Быт. Культура. Религия.</value>
+    </attribute>
+    <attribute>
+        <name>{$City}</name>
+        <value>М.</value>
+    </attribute>
+    <attribute>
+        <name>{$Publishing}</name>
+        <value>Центрполиграф</value>
+    </attribute>
+    <attribute>
+        <name>{$Year}</name>
+        <value>2004</value>
+    </attribute>
+</attributes> 
