@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <attributes>
     <attribute>
+        <name>{$MainTemplate}</name>
+        <value>{$Templates}\Literature\Para.template</value>
+    </attribute>
+    <attribute>
         <name>{$Name}</name>
         <value>Инки</value>
     </attribute>
