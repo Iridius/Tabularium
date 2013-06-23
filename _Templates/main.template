@@ -7,5 +7,5 @@
 	<link href="css/tabular1.css" type="text/css" rel="stylesheet">
 </head>
 <body bgcolor="#000000" background="paper.jpg">
-	{$Content}
+{$Content}
 </body>

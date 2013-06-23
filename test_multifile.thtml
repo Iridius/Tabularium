@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="windows-1251"?>
-<attributes>
-	<attribute>
-		<name>mainTemplate</name>
-		<value>{$Templates}\Literature</value>
-	</attribute>
-</attributes>
