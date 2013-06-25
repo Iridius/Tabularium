@@ -14,7 +14,7 @@
     </attribute>
     <attribute>
         <name>{$BookName}</name>
-        <value>Инки. Быт. Культура. Религия.</value>
+        <value>Инки. Быт. Культура. Религия</value>
     </attribute>
     <attribute>
         <name>{$City}</name>
@@ -22,7 +22,7 @@
     </attribute>
     <attribute>
         <name>{$Publishing}</name>
-        <value>Центрполиграф</value>
+        <value>&#171;Центрполиграф&#187;</value>
     </attribute>
     <attribute>
         <name>{$Year}</name>

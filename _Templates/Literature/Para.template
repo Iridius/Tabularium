@@ -1,4 +1,4 @@
-<h4>{$Name}</h4>
-<ul>
+<h3>{$Name}</h3>
+<ol>
 {$Books}
-</ul>
+</ol>

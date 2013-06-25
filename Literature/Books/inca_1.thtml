@@ -22,7 +22,7 @@
     </attribute>
     <attribute>
         <name>{$Publishing}</name>
-        <value>Высшая школа</value>
+        <value>&#171;Высшая школа&#187;</value>
     </attribute>
     <attribute>
         <name>{$Year}</name>
