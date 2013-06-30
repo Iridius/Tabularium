@@ -16,6 +16,7 @@
         <name>{$Books}</name>
         <value>{$BasePath}\Literature\Books\</value>
         <filter>thtml</filter>
+        <sort>{$Author}</sort>
         <template>{$Templates}\Literature\Book.template</template>
     </attribute>
 </attributes>
