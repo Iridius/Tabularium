@@ -10,11 +10,11 @@
     </attribute>
     <attribute>
         <name>{$Name}</name>
-        <value>Инки</value>
+        <value>Ассирия</value>
     </attribute>
     <attribute>
         <name>{$Books}</name>
-        <value>{$BasePath}\Literature\Books\Inca</value>
+        <value>{$BasePath}\Literature\Books\Assyria</value>
         <filter>thtml</filter>
         <sort>{$Author}</sort>
         <template>{$Templates}\Literature\Book.template</template>
