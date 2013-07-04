@@ -3,9 +3,25 @@
 <head>
 	<meta http-equiv="content-type" content="text/html;charset=windows-1251">
 	<title>Tabularium: личность в истории</title>
-	<link href="css/tabular.css" type="text/css" rel="stylesheet">
-	<link href="css/tabular1.css" type="text/css" rel="stylesheet">
+	<link href="css/basic.css" type="text/css" rel="stylesheet" />
+	<link href="css/columns.css" type="text/css" rel="stylesheet" />
 </head>
 <body bgcolor="#000000" background="paper.jpg">
+<div id="Workspace">
+    <div id="Title">
+        <a href="index.html"><img src="images/mummy.gif" alt="" align="left" /></a>
+        <h1><a href="index.html">Личность в истории</a></h1>
+        <h4>краткая энциклопедия</h4>
+        <p>Проект &laquo;<strong>Tabularium: личность в истории</strong>&raquo; посвящен людям &mdash; современникам грандиозных исторических событий, носителям редких качеств или людям, взгляды которых опередили их время.</p>
+    </div>
+    <ul id="MainMenu">
+        <li><a href="briefing.html">Коротко<br />о разном</a></li>
+        <li><a href="articles/articles.html">Статьи<br />и тексты</a></li>
+        <li>Персоналии</li>
+        <li><a href="literature.html">Литература</a></li>
+        <li><a href="links/partners.html">О проекте.<br />Партнеры</a></li>
+    </ul>
+    <br clear="left"/>
 {$Content}
+</div>
 </body>
