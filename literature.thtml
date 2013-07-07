@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <attributes>
+	<breadcrumb>
+		<name>главная</name>
+		<value>{$OutputPath}/index.html</value>
+	</breadcrumb>
     <attribute>
         <name>output</name>
         <value>true</value>
     </attribute>
     <attribute>
 	<name>{$MainTemplate}</name>
-	<value>{$Templates}\main.template</value>
+	<value>{$Templates}/main.template</value>
     </attribute>
     <attribute>
 	<name>{$Content}</name>
-	<value>{$BasePath}\Literature\Para\</value>
+	<value>{$BasePath}/Literature/Para/</value>
 	<filter>thtml</filter>
     </attribute>
 </attributes>
