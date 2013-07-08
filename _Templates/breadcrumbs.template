@@ -1,4 +1,4 @@
 <div id="Ants">
      {$Breadcrumbs}
-     <strong>{$CurrentPage}</strong>
+     <strong>{@CurrentPage}</strong>
 </div>

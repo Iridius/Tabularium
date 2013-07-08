@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<attributes>
+    <attribute>
+        <name>{$MainTemplate}</name>
+        <value>{$Templates}/breadcrumbs.template</value>
+    </attribute>
+    <attribute>
+        <name>{$Breadcrumbs}</name>
+        <value>{$Breadcrumbs}/main.thtml</value>
+    </attribute>
+</attributes>

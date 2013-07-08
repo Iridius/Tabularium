@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<attributes>
+    <attribute>
+        <name>{$MainTemplate}</name>
+        <value>{$Templates}/breadcrumb.template</value>
+    </attribute>
+    <attribute>
+        <name>{$Name}</name>
+        <value>Главная</value>
+    </attribute>
+    <attribute>
+        <name>{$Link}</name>
+        <value>"{$BasePath}/index.html"</value>
+    </attribute>
+</attributes>
