@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <attributes>
 	<attribute>
+		<name>{@CurrentPage}</name>
+		<value>Литература</value>
+	</attribute>
+	<attribute>
+		<name>{$Breadcrumbs}</name>
+		<value>{$Breadcrumbs}/mainpath.thtml</value>
+	</attribute>
+	<attribute>
 		<name>output</name>
 		<value>true</value>
 	</attribute>
