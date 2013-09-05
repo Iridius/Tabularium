@@ -1,1 +1,1 @@
-<a href={$Link}>{$Name}</a> <img src="{$BasePath}/images/arrow.gif" alt="" height="5" width="14" border="0" />
+<a href={$Link}>{$Name}</a> <img src="{$BasePath}images/arrow.gif" alt="" height="5" width="14" border="0" />
