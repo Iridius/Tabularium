@@ -1,4 +1,6 @@
-<h3>{$Name}</h3>
-<ol>
-{$Books}
-</ol>
+    <div>
+        <h3>{$Name}</h3>
+        <ol>
+            {$Books}
+        </ol>
+    </div>

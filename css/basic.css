@@ -1,11 +1,11 @@
+@import url(MainTitle.css);
 @import url(MainMenu.css);
-
-*
+/*
 {
 	margin: 0px; 
 	padding: 0px;
 }
-
+*/
 a 
 {
 	color: #106010;
@@ -98,43 +98,6 @@ p.subTitle
 	font-size: 80%;
 	margin: 0.5em 0em 2em 0em;
 	text-align: right !important; 
-}
-
-#Title
-{
-	font-family: "Book Antiqua", serif;
-}
-
-#Title a, #Title a:visited
-{	
-	color: #000000;
-	text-decoration: none;
-}
-
-#Title img
-{
-	border-style: none;
-	margin-right: 5px;
-}
-
-#Title h1
-{
-	margin-bottom: -10px;
-}
-
-#Title h4 
-{
-	font-weight: 400;
-	padding: 0px 0px 10px 0px !important;
-	letter-spacing: 2px;
-}
-
-#Title p
-{
-	font-family: "Book Antiqua", serif;
-	font-size: 80%;
-	margin-bottom: 1em;
-	width: 500px;
 }
 
 #Updates
