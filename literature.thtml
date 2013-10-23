@@ -9,6 +9,10 @@
 		<value>{$Breadcrumbs}/mainpath.thtml</value>
 	</attribute>
 	<attribute>
+		<name>{$MainMenu}</name>
+		<value>{$Templates}/mm_literature.template</value>
+	</attribute>
+	<attribute>
 		<name>output</name>
 		<value>true</value>
 	</attribute>

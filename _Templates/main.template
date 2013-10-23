@@ -15,14 +15,7 @@
         <h4>краткая энциклопедия</h4>
         <p>Проект &laquo;<strong>Tabularium: личность в истории</strong>&raquo; посвящен людям &mdash; современникам грандиозных исторических событий, носителям редких качеств или людям, взгляды которых опередили их время.</p>
     </div>
-    <ul id="MainMenu">
-        <li><a href="briefing.html">Коротко<br />о разном</a></li>
-        <li><a href="articles/articles.html">Статьи<br />и тексты</a></li>
-        <li>Персоналии</li>
-        <li><a href="literature.html">Литература</a></li>
-        <li><a href="links/partners.html">О проекте.<br />Партнеры</a></li>
-    </ul>
-    <br clear="left"/>
+    {$MainMenu}
 {$Content}
 </div>
 </body>
