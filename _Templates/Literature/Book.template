@@ -1,1 +1,1 @@
-<li><strong>{$Author}</strong>, <em>{$BookName}</em>., {$City}, <nobr>{$Publishing}</nobr>, {$Year}.</li>
+<li>{$Author}<em>{$BookName}</em>., {$City}, <nobr>{$Publishing}</nobr>, {$Year}.</li>

@@ -11,6 +11,7 @@
     <attribute>
         <name>{$Author}</name>
         <value>Боден Л.</value>
+	<template>{$Templates}\Literature\Author.template</template>
     </attribute>
     <attribute>
         <name>{$BookName}</name>
