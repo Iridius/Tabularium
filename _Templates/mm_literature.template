@@ -1,0 +1,8 @@
+<ul id="MainMenu">
+	<li><a href="{$BasePath}briefing.html">Коротко<br />о разном</a></li>
+	<li><a href="{$BasePath}articles/articles.html">Статьи<br />и тексты</a></li>
+	<li><a href="{$BasePath}persons.html">Персоналии</a></li>
+	<li><a href="{$BasePath}literature.html">Литература</a></li>
+	<li><a href="{$BasePath}links/partners.html">О проекте.<br />Партнеры</a></li>
+</ul>
+<br clear="left"/>
