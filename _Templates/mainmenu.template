@@ -1,0 +1,4 @@
+    <ul id="MainMenu">
+	{@Items}
+    </ul>
+    <br clear="left"/>

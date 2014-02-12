@@ -16,6 +16,7 @@
     <attribute>
         <name>{$BookName}</name>
         <value>{{$BookName}}</value>
+	<template>{$Templates}\Literature\BookName.template</template>
     </attribute>
     <attribute>
         <name>{$City}</name>
