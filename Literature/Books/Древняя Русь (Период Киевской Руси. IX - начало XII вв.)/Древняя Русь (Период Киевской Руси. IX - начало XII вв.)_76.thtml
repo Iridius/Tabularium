@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<attributes>
+    <attribute>
+        <name>output</name>
+        <value>false</value>
+    </attribute>
+    <attribute>
+        <name>{$MainTemplate}</name>
+        <value>{$Templates}\Literature\Book.template</value>
+   </attribute>
+    <attribute>
+        <name>{$Author}</name>
+        <value>Рыбаков Б. А</value>
+	<template>{$Templates}\Literature\Author.template</template>
+    </attribute>
+    <attribute>
+        <name>{$BookName}</name>
+        <value>Язычество Древней Руси</value>
+	<template>{$Templates}\Literature\BookName.template</template>
+    </attribute>
+    <attribute>
+        <name>{$City}</name>
+        <value></value>
+    </attribute>
+    <attribute>
+        <name>{$Publishing}</name>
+        <value>Наука</value>
+    </attribute>
+    <attribute>
+        <name>{$Year}</name>
+        <value>1987</value>
+    </attribute>
+</attributes>

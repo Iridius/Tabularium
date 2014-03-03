@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<attributes>
+    <attribute>
+        <name>output</name>
+        <value>false</value>
+    </attribute>
+    <attribute>
+        <name>{$MainTemplate}</name>
+        <value>{$Templates}\Literature\Para.template</value>
+    </attribute>
+    <attribute>
+        <name>{$Name}</name>
+        <value>Карфаген</value>
+    </attribute>
+    <attribute>
+        <name>{$Books}</name>
+        <value>{$BasePath}\Literature\Books\Карфаген</value>
+        <filter>thtml</filter>
+        <sort>{$Author}</sort>
+        <template>{$Templates}\Literature\Book.template</template>
+    </attribute>
+</attributes>
