@@ -1,18 +1,18 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-	<meta http-equiv="content-type" content="text/html;charset=windows-1251">
-	<meta name="generator" content="Adobe GoLive">
 	<title>Tabularium: личность в истории</title>
 	<link href="css/tabular.css" type="text/css" rel="stylesheet">
 	<link href="css/tabular1.css" type="text/css" rel="stylesheet">
+
 </head>
 <body bgcolor="#000000" background="paper.jpg">
 <table align="center" border="0">
 <tr>
-<td class="outside"><p><a href="index.html">главная</a> <img src="images/arrow.gif" alt=""> <strong>литература</strong></p></td>
+	<td class="outside"><p><a href="index.html">главная</a> <img src="images/arrow.gif" alt=""> <strong>литература</strong></p></td>
 </tr>
 </table>
+
 <table class="Workspace" cellpadding="0" align="center" border="0" background="paper.jpg" width="705">
 <tr>
 	<td rowspan="1" width="50">&nbsp;</td>
@@ -21,6 +21,7 @@
 	<h4>краткая энциклопедия</h4>
 	<p>Проект &laquo;<strong>Личность в&nbsp;истории</strong>&raquo; посвящен людям&nbsp;&mdash; современникам грандиозных исторических событий, носителям редких качеств или людям, взгляды которых опередили их время.</p></td>
 	<td width="150">&nbsp;</td>
+
 </tr>
 <tr>
 	<td>&nbsp;</td>
@@ -31,43 +32,39 @@
 	<td>&nbsp;</td>
 </tr>
 <tr>
-<tr>
 <td>&nbsp;</td>
 <td colspan="4"><h3>Инки</h3></td>
 <td>&nbsp;</td>
 </tr>
+
 <tr>
 <td>&nbsp;</td>
 <td colspan="4">
 <ol>
-<li><strong>Альперович М. С., Слезкин Л. Ю. </strong>&nbsp;<em>История Латинской Америки (с древнейших времен до начала XX в.). </em>&nbsp; <br/>М., &laquo;Высшая школа&raquo;, 1991. </li>
-<li><strong>Башилов В. А. </strong>&nbsp;<em>Древние цивилизации Перу и Боливии. </em>&nbsp;<br/>М., 1972. </li>
-<li><strong>Боден Л. </strong>&nbsp;<em>Инки. Быт. Культура. Религия. </em>&nbsp; <br/>М., &laquo;Центрполиграф&raquo;, 2004. </li>
-<li><strong>Зубрицкий  Ю. А. </strong>&nbsp;<em>Инки-кечуа. </em>&nbsp;М.. 1975. </li>
-<li><strong>Инки: Владыки золота и наследники славы.</strong>&nbsp;<em>Энциклопедия &laquo;Исчезнувшие цивилизации&raquo;. </em>&nbsp;М., &laquo;TERRA-ТЕРРА &raquo;, 1997.</li>
-<li><strong>Кенделл Э. </strong>&nbsp;<em>Инки. Быт, религия, культура. </em>&nbsp;<br/>М.,  &laquo;Центрполиграф&raquo;, 2005. </li>
-<li><strong>Кинжалов Р. В. </strong>&nbsp;<em>Искусство древней Америки. </em>&nbsp;М., 1962. </li>
-<li><strong>Кронозов Ю. В., Федорова И. К. </strong>&nbsp;<em>Древнее перуанское письмо: проблемы и гипотезы. </em>&nbsp;// &laquo;Латинская Америка&raquo;, 1970, № 5. </li>
-<li><strong>Нерсесов Я. Н. </strong> <em>Доколумбова Америка. Ацтеки, майя, инки. </em><br/>М., &laquo;Астрель&raquo;, 2009.</li>
-<li><strong>Стингл. М. </strong>&nbsp;<em>Государство инков. Слава и смерть «сыновей солнца». </em>&nbsp; М., &laquo;Прогресс&raquo;, 1986. </li>
-<li><strong>Хаген В. фон. </strong>&nbsp;<em>Ацтеки, майя, инки. </em>&nbsp;М., 2005.</li>
-<li><strong>Хара Виктория, де ла. </strong>&nbsp;<em>Дешифровка письменности инков и проблемы кипу. </em>&nbsp;// &laquo;Латинская Америка&raquo;, 1972, № 5. </li>
-</ol></td>
+<li><strong>Альперович М. С., Слезкин Л. Ю.</strong> <em>История Латинской Америки (с древнейших времен до начала XX&nbsp;в.).</em> М., &laquo;Высшая школа&raquo;, 1991.</li>
+<li><strong>Башилов В. А.</strong> <em>Древние цивилизации Перу и Боливии.</em>М., 1972.</li>
+<li><strong>Боден Л.</strong> <em>Инки. Быт. Культура. Религия.</em>М., &laquo;Центрполиграф&raquo;, 2004.</li>
+<li><strong>Зубрицкий Ю. А.</strong> <em>Инки-кечуа.</em> М., 1975.</li>
+<li><strong>Инки: Владыки золота и наследники славы.</strong> <em>Энциклопедия &laquo;Исчезнувшие цивилизации&raquo;.</em>&nbsp;М., &laquo;TERRA-ТЕРРА&raquo;, 1997.</li>
+<li><strong>Кенделл Э.</strong> <em>Инки. Быт, религия, культура.</em> М., &laquo;Центрполиграф&raquo;, 2005.</li>
+<li><strong>Кинжалов Р. В.</strong> <em>Искусство древней Америки.</em> М., 1962.</li>
+<li><strong>Кронозов Ю. В., Федорова И. К.</strong> <em>Древнее перуанское письмо: проблемы и гипотезы.</em> // &laquo;Латинская Америка&raquo;, 1970, № 5.</li>
+<li><strong>Нерсесов Я. Н.</strong> <em>Доколумбова Америка. Ацтеки, майя, инки.</em> М., &laquo;Астрель&raquo;, 2009.</li>
+<li><strong>Стингл. М.</strong> <em>Государство инков. Слава и смерть «сыновей солнца».</em> М., &laquo;Прогресс&raquo;, 1986.</li>
+<li><strong>Хаген В. фон.</strong> <em>Ацтеки, майя, инки.</em> М., 2005.</li>
+<li><strong>Хара Виктория, де ла.</strong> <em>Дешифровка письменности инков и проблемы кипу.</em> // &laquo;Латинская Америка&raquo;, 1972, №&nbsp;5.</li>
+</ol>
+</td>
 
 <td align="right"><img alt="" src="images/Inki.jpg" border="1" hspace="10"></td>
 
 </tr>
 
 <tr>
-
 <td>&nbsp;</td>
-
 <td colspan="4"><h3>Ассирия</h3></td>
-
 <td>&nbsp;</td>
-
 </tr>
-
 
 
 <tr>
@@ -77,87 +74,48 @@
 <td colspan="4">
 
 <ol>
-
-<li><strong>Васильев&nbsp;Л.&nbsp;С.</strong>&nbsp;<em>История Востока. </em> &nbsp;т. 1.,  &nbsp;М., 1998.</li>
-
-<li><strong>Вейс Г. </strong>&nbsp;<em>История культуры народов мира. Ассирия. Вавилон. Персия. Первые сверхдержавы. </em>&nbsp;М., &laquo;Эксмо&raquo;&nbsp;, 2005.</li>
-
-<li><strong>Дьяконов И. М.  </strong>&nbsp;<em>К вопросу о судьбе пленных в Ассирии и Урарту. </em>&nbsp; //ВДИ. 1952, № 1.</li>
-
-<li><strong>Дьяконов И. М.  </strong>&nbsp;<em>Развитие земельных отношений в Ассирии.</em>&nbsp;Л., 1949</li>
-
-<li><strong>Зайцев А., Лаптева В., Порьяз А. </strong>&nbsp;<em>Мировая культура. Шумерское царство. Вавилон и Ассирия. Древний Египет. </em> <br/>М., &laquo;ОЛМА-Пресс&raquo;, 2000</li>
-
-<li><strong>История Востока в шести томах. </strong>(под ред. Р. Б. Рыбакова и др.). <em>Т. 1. Восток в древности. </em>&nbsp;М.,  &laquo;Восточная литература&raquo; РАН, 2002</li>
-
-<li><strong>Никольский М. В. </strong>&nbsp;<em>Ассирийские клинообразные тексты. Вып. 1-2. </em>&nbsp;ГМ., 1883-1884.</li>
-
-<li><strong>Никольский М. В. </strong>&nbsp;<em>О двух ассирийских фрагментах. Отрывок надписи ассирийского царя Асур-насир-абали (885-860 гг. до Р. Х.). &nbsp;</em>&nbsp;- &laquo;Древности восточные&raquo;. 1893.  Т.1., Вып. 3., с. 353-359.</li>
-
-<li><strong>Никольский М. В. </strong>&nbsp;<em>Саргон, царь ассирийский. (Популярный очерк). </em>&nbsp;М., 1881.</li>
-
-<li><strong>Рагозина З. А. </strong>&nbsp;<em>Древнейшая история Востока. Кн. 2. История Ассирии от возвышения ассирийской державы до падения Ниневии.  </em>&nbsp;СПб., &laquo;Издательство А. Ф. Маркса&raquo;, 1902.</li>
-
-<li><strong>Саггс Х. </strong>&nbsp;<em>Вавилон и Ассирия. Быт, религия, культура. </em>&nbsp;<br/>М.,  &laquo;Центрполиграф&raquo;, 2004.</li>
-
-<li><strong>Садаев Д. Ч. </strong>&nbsp;<em>История древней Ассирии.  </em>&nbsp;М.,  &laquo;Наука&raquo;, 1979.</li>
-
-
+<li><strong>Васильев Л. С.</strong> <em>История Востока. т.&nbsp;1.</em>, М., 1998.</li>
+<li><strong>Вейс Г.</strong>&nbsp;<em>История культуры народов мира. Ассирия. Вавилон. Персия. Первые сверхдержавы.</em> М., &laquo;Эксмо&raquo;, 2005.</li>
+<li><strong>Дьяконов И. М.</strong>&nbsp;<em>К вопросу о судьбе пленных в Ассирии и Урарту.</em> //ВДИ. 1952, № 1.</li>
+<li><strong>Дьяконов И. М.</strong>&nbsp;<em>Развитие земельных отношений в Ассирии.</em> Л., 1949</li>
+<li><strong>Зайцев А., Лаптева В., Порьяз А.</strong> <em>Мировая культура. Шумерское царство. Вавилон и Ассирия. Древний Египет.</em> М., &laquo;ОЛМА-Пресс&raquo;, 2000.</li>
+<li><em>История Востока в шести томах. т.&nbsp;1. Восток в древности.</em> (под ред. Р. Б. Рыбакова и др.). М., &laquo;Восточная литература&raquo; РАН, 2002</li>
+<li><strong>Никольский М. В.</strong> <em>Ассирийские клинообразные тексты. Вып. 1-2.</em> ГМ., 1883-1884.</li>
+<li><strong>Никольский М. В.</strong> <em>О двух ассирийских фрагментах. Отрывок надписи ассирийского царя Асур-насир-абали (885-860 гг. до Р. Х.).</em> &laquo;Древности восточные&raquo;. 1893. т.1., Вып. 3., с. 353-359.</li>
+<li><strong>Никольский М. В.</strong> <em>Саргон, царь ассирийский. (Популярный очерк).</em> М., 1881.</li>
+<li><strong>Рагозина З. А.</strong> <em>Древнейшая история Востока. Кн. 2. История Ассирии от возвышения ассирийской державы до падения Ниневии.</em> СПб., &laquo;Издательство А. Ф. Маркса&raquo;, 1902.</li>
+<li><strong>Саггс Х.</strong> <em>Вавилон и Ассирия. Быт, религия, культура.</em> М., &laquo;Центрполиграф&raquo;, 2004.</li>
+<li><strong>Садаев Д. Ч.</strong> <em>История древней Ассирии.</em> М., &laquo;Наука&raquo;, 1979.</li>
 </ol></td>
 
 <td align="right"><img alt="" src="images/Assiria.jpg" border="1" hspace="10"></td>
-
 </tr>
 
 <tr>
-
 <td>&nbsp;</td>
-
 <td colspan="4"><h3>Шумер</h3></td>
-
 <td>&nbsp;</td>
-
 </tr>
 
-
-
 <tr>
-
 <td>&nbsp;</td>
-
 <td colspan="4">
-
 <ol>
-
-<li><strong>Авдиев В. И.&nbsp;</strong>&nbsp;<em>История древнего Востока. Лекции. </em>&nbsp;М, &nbsp;1953.</li> 
-
-<li><strong>Белицкий М.  </strong>&nbsp;<em> Забытый мир шумеров. </em>&nbsp;М., &laquo;Наука&raquo;&nbsp;, 1980.</li>
-
-<li><strong>Белов П. М. </strong>&nbsp;<em>Шумеро-Аккадская культура. </em>&nbsp;<br/>Горький,  Крайоно, 1935.</li>
-
-<li><strong>Васильев&nbsp;Л.&nbsp;С.</strong>&nbsp;<em>История Востока. </em> &nbsp;т.&nbsp;1.,  М., 1998.</li>
-
-<li><strong>Дьяконов И. М.  </strong>&nbsp;<em>История древнего Востока: Зарождение древнейших классовых обществ и первые очаги рабовладельческой цивилизации. /в 2-х ч./. </em>&nbsp; М., &laquo;Наука&raquo;, 1983.</li>
-
-<li><strong>Дьяконов И. М.  </strong>&nbsp;<em><a href="annotations/Schumer.html">Люди города Ура.</a></em>&nbsp; М., &laquo;Наука&raquo;, 1990.</li>
-
-<li><strong>Дьяконов И. М.  </strong>&nbsp;<em>Общественный и государственный строй древнего Двуречья. Шумер.</em>&nbsp;М., &laquo;Издательство восточной литературы&raquo;, 1959.</li>
-
-<li><strong>Дьяконов&nbsp; И. М. </strong>&nbsp;<em>Реформы Урукагины в Лагаше.</em>, <br/>// ВДИ, 1951,  №.1.</li>
-
-<li><strong>Дьяконов И. М.  </strong>&nbsp;<em>Эпос о Гильгамеше. (&laquo;О все видавшем&raquo;),</em><br/>М.-Л.,  &laquo;Издательство Академии наук СССР&raquo;, (ленинградское отделение), 1961.</li>
-
-<li><strong>Крамер. С. М., </strong>&nbsp;<em>История начинается в Шумере. </em>&nbsp;<br/>Главная редакция восточной литеретуры издательства &laquo;Наука&raquo;, 1965.</li>
-
-<li><strong>Крамер&nbsp;С.</strong>&nbsp;<em>Шумеры.&nbsp;</em>&nbsp;М., &laquo;Центрполиграф&raquo;, 2009.</li>
-
-<li><strong>Они мне сказали, а я повторяю. </strong>&nbsp;<em>Из поэзии Шумера и Вавилонии. Слово и глина. III тыс. до н. э. &mdash; III  тыс. н. э., (Составитель В. Цивин.), </em>&nbsp;СПб., &laquo;Редкая книга из Санкт-Петербурга&raquo;, 2001.</li>
-
-<li><strong>Струве В. В. </strong>&nbsp;<em>Вопрос о существовании в Шумере предсказания будущего посредством стрел. </em>&nbsp;М., &laquo;Издательство восточной литературы&raquo;, 1960.</li>
-
-<li><strong>Струве В. В. </strong>&nbsp;<em>Государство Лагаш. Борьба за расширенгие гражданского права в Лагаше XXV-XXIV вв. до н. э. </em>&nbsp;М.,  &laquo;Издательство восточной литературы&raquo;, 1961.</li>
-
-<li><strong>Шумер: города Эдема. </strong>&nbsp;<em>Энциклопедия &laquo;Исчезнувшие цивилизации&raquo;. </em>&nbsp;М., &laquo;ТЕРРА&ndash;TERRA&raquo;, 1997.</li>
+<li><strong>Авдиев В. И.</strong> <em>История древнего Востока. Лекции.</em> М, 1953.</li> 
+<li><strong>Белицкий М.</strong> <em>Забытый мир шумеров.</em> М., &laquo;Наука&raquo;&nbsp;, 1980.</li>
+<li><strong>Белов П. М.</strong> <em>Шумеро-Аккадская культура.</em> Горький, Крайоно, 1935.</li>
+<li><strong>Васильев Л. С.</strong> <em>История Востока.</em> т.&nbsp;1., М., 1998.</li>
+<li><strong>Дьяконов И. М.</strong> <em>История древнего Востока: Зарождение древнейших классовых обществ и первые очаги рабовладельческой цивилизации. /в 2-х ч./.</em> М., &laquo;Наука&raquo;, 1983.</li>
+<li><strong>Дьяконов И. М.</strong> <em> <a href="annotations/Schumer.html">Люди города Ура.</a></em> М., &laquo;Наука&raquo;, 1990.</li>
+<li><strong>Дьяконов И. М.</strong> <em>Общественный и государственный строй древнего Двуречья. Шумер.</em> М., &laquo;Издательство восточной литературы&raquo;, 1959.</li>
+<li><strong>Дьяконов И. М.</strong> <em>Реформы Урукагины в Лагаше.</em>, // ВДИ, 1951, №.1.</li>
+<li><strong>Дьяконов И. М.</strong> <em>Эпос о Гильгамеше. (&laquo;О все видавшем&raquo;)</em> М.-Л., &laquo;Издательство Академии наук СССР&raquo;, (ленинградское отделение), 1961.</li>
+<li><strong>Крамер С. М.</strong> <em>История начинается в Шумере.</em> &laquo;Главная редакция восточной литеретуры издательства &laquo;Наука&raquo;, 1965.</li>
+<li><strong>Крамер С.</strong> <em>Шумеры.</em> М., &laquo;Центрполиграф&raquo;, 2009.</li>
+<li><em>Они мне сказали, а я повторяю. Из поэзии Шумера и Вавилонии. Слово и глина. III тыс. до н. э. &mdash; III  тыс. н. э.</em>, (Составитель В. Цивин.), СПб., &laquo;Редкая книга из Санкт-Петербурга&raquo;, 2001.</li>
+<li><strong>Струве В. В.</strong> <em>Вопрос о существовании в Шумере предсказания будущего посредством стрел.</em> М., &laquo;Издательство восточной литературы&raquo;, 1960.</li>
+<li><strong>Струве В. В.</strong> <em>Государство Лагаш. Борьба за расширенгие гражданского права в Лагаше XXV-XXIV вв. до н. э.</em> М., &laquo;Издательство восточной литературы&raquo;, 1961.</li>
+<li><em>Шумер: города Эдема. Энциклопедия &laquo;Исчезнувшие цивилизации&raquo;.</em> М., &laquo;ТЕРРА&ndash;TERRA&raquo;, 1997.</li>
 
 
 </ol></td>
@@ -208,7 +166,7 @@
 
 <li><strong>Коа &nbsp;И.</strong>&nbsp;<em>Викинги, короли морей.</em>&nbsp;&laquo;АСТ&raquo;, &laquo;Астрель&raquo;, 1990.</li>
 
-<li><strong>Лебедев&nbsp; Г. &nbsp;С. </strong>&nbsp;<em><a href="annotations/Vikingi.html">Эпоха викингов в Северной Европе и на Руси.</a></em>&nbsp;<br> – СПб.: &laquo;Евразия&raquo;, 2005.</li>
+<li><strong>Лебедев&nbsp; Г. &nbsp;С. </strong>&nbsp;<em><cite><a href="annotations/Vikingi.html">Эпоха викингов в Северной Европе и на Руси.</a></cite></em>&nbsp;<br> – СПб.: &laquo;Евразия&raquo;, 2005.</li>
 
 <li><strong>Симпсон&nbsp;Ж.</strong>&nbsp;<em>Викинги. Быт, религия, культура.</em>&nbsp;<br>М., &laquo;Центрполиграф&raquo;, 2005.</li>
 
@@ -283,11 +241,8 @@
 <td>&nbsp;</td>
 
 <td colspan="4"><h3>Древняя Русь (Период Киевской Руси. IX - начало XII вв.)</h3></td>
-
 <td>&nbsp;</td>
-
 </tr>
-
 
 
 <tr>
@@ -463,33 +418,33 @@
 
 <ol>
 
-<li><strong>Анна Комнина</strong>, <em>Алексиада</em>. (вст., пер., коммент., <strong>Любарского&nbsp;Я.&nbsp;Н.</strong>)., М., 1965.</li>
+<li><strong>Анна Комнина</strong>, <cite>Алексиада</cite>. (вст., пер., коммент., <strong>Любарского&nbsp;Я.&nbsp;Н.</strong>)., М., 1965.</li>
 
-<li><strong>Лев Диакон</strong>, <em>История</em>., М., &laquo;Наука&raquo;, 1988.</li>
+<li><strong>Лев Диакон</strong>, <cite>История</cite>., М., &laquo;Наука&raquo;, 1988.</li>
 
-<li><strong>Прокопий Кесарийский</strong>, <em>Война с персами. Война с вандалами. Тайная история</em>., М., &laquo;Наука&raquo;, 1993.</li>
+<li><strong>Прокопий Кесарийский</strong>, <cite>Война с персами. Война с вандалами. Тайная история</cite>., М., &laquo;Наука&raquo;, 1993.</li>
 
-<li><em>Византийские историки о&nbsp;падении Константинополя в&nbsp;1453&nbsp;году</em>. (под ред. <strong>Любарского&nbsp;Я.&nbsp;Н.</strong> и&nbsp;<strong>Соболь&nbsp;Т.&nbsp;И.</strong>)., СПб., &laquo;Алетейя&raquo;, 2006.</li>
+<li><cite>Византийские историки о&nbsp;падении Константинополя в&nbsp;1453&nbsp;году</cite>. (под ред. <strong>Любарского&nbsp;Я.&nbsp;Н.</strong> и&nbsp;<strong>Соболь&nbsp;Т.&nbsp;И.</strong>)., СПб., &laquo;Алетейя&raquo;, 2006.</li>
 
-<li><strong>Гийу Андре</strong>, <em>Византийская цивилизация</em>., Екатеринбург, <nobr>&laquo;У-Фактория&raquo;</nobr>, 2005.</li>
+<li><strong>Гийу Андре</strong>, <cite>Византийская цивилизация</cite>., Екатеринбург, <nobr>&laquo;У-Фактория&raquo;</nobr>, 2005.</li>
 
-<li><em>История Византии</em> (под ред. акад. <strong>Сказкина&nbsp;С.&nbsp;Д.</strong>)., М., 1967, <nobr>т.&nbsp;I&ndash;III</nobr>.</li>
+<li><cite>История Византии</cite> (под ред. акад. <strong>Сказкина&nbsp;С.&nbsp;Д.</strong>)., М., 1967, <nobr>т.&nbsp;I&ndash;III</nobr>.</li>
 
-<li><strong>Курбатов&nbsp;Г.&nbsp;Л.</strong>, <em><a href="annotations/Viz.html">История Византии (От античности к&nbsp;феодализму</a></em></em>., М., &laquo;Высшая школа&raquo;, 1984.</li>
+<li><strong>Курбатов&nbsp;Г.&nbsp;Л.</strong>, <em><a href="annotations/Viz.html">История Византии (От античности к&nbsp;феодализму</a></em></cite>., М., &laquo;Высшая школа&raquo;, 1984.</li>
 
-<li><strong>Курбатов&nbsp;Г.&nbsp;Л.</strong>, <em>История Византии (историография)</em>., Л., Издательство ЛГУ, 1975.</li>
+<li><strong>Курбатов&nbsp;Г.&nbsp;Л.</strong>, <cite>История Византии (историография)</cite>., Л., Издательство ЛГУ, 1975.</li>
 
-<li><strong>Курбатов&nbsp;Г.&nbsp;Л.</strong>, <em>Византия в&nbsp;VI&nbsp;столетии</em>., М., &laquo;Учпедгиз&raquo;, 1959.</li>
+<li><strong>Курбатов&nbsp;Г.&nbsp;Л.</strong>, <cite>Византия в&nbsp;VI&nbsp;столетии</cite>., М., &laquo;Учпедгиз&raquo;, 1959.</li>
 
-<li><strong>Кулаковский&nbsp;Ю.&nbsp;А.</strong>, <em>История Византии</em>., СПб., &laquo;Алетейя&raquo;, 2003&ndash;2004, <nobr>т.&nbsp;I&ndash;III</nobr>.</li>
+<li><strong>Кулаковский&nbsp;Ю.&nbsp;А.</strong>, <cite>История Византии</cite>., СПб., &laquo;Алетейя&raquo;, 2003&ndash;2004, <nobr>т.&nbsp;I&ndash;III</nobr>.</li>
 
-<li><strong>Левченко&nbsp;М.&nbsp;В.</strong>, <em>История Византии. Краткий очерк</em>., М., 1940.</li>
+<li><strong>Левченко&nbsp;М.&nbsp;В.</strong>, <cite>История Византии. Краткий очерк</cite>., М., 1940.</li>
 
-<li><strong>Литаврин&nbsp;Г.&nbsp;Г.</strong>, <em>Как жили византийцы</em>., М., 1974.</li>
+<li><strong>Литаврин&nbsp;Г.&nbsp;Г.</strong>, <cite>Как жили византийцы</cite>., М., 1974.</li>
 
-<li><strong>Лихачева&nbsp;В.&nbsp;Д.</strong>, <em>Искусство Византии <nobr>IV&ndash;XV</nobr>&nbsp;веков</em>., Л., 1981.</li>
+<li><strong>Лихачева&nbsp;В.&nbsp;Д.</strong>, <cite>Искусство Византии <nobr>IV&ndash;XV</nobr>&nbsp;веков</cite>., Л., 1981.</li>
 
-<li><strong>Успенский&nbsp;Ф.&nbsp;И.</strong>, <em>История Византийской империи</em>., М., &laquo;Аст&raquo;, 2005, <nobr>т.&nbsp;I&ndash;V</nobr>.</li>
+<li><strong>Успенский&nbsp;Ф.&nbsp;И.</strong>, <cite>История Византийской империи</cite>., М., &laquo;Аст&raquo;, 2005, <nobr>т.&nbsp;I&ndash;V</nobr>.</li>
 
 </ol>
 
@@ -575,35 +530,35 @@
 
 <ol>
 
-<li><strong>Авдиев&nbsp;В.&nbsp;И.</strong>, <em>История Древнего Востока</em>, М.: гос. изд.-во полит. литературы, 1953.</li>
+<li><strong>Авдиев&nbsp;В.&nbsp;И.</strong>, <cite>История Древнего Востока</cite>, М.: гос. изд.-во полит. литературы, 1953.</li>
 
-<li><strong>Замаровский&nbsp;В.</strong>, <em><a href="annotations/Z26.html">Их величества пирамиды</a></em>, <nobr>2-е изд</nobr>. Пер. со словацкого О.&nbsp;М.&nbsp;Малевича, Послесл. Н.&nbsp;С.&nbsp;Петровского, И.&nbsp;А.&nbsp;Стучевского. М., &laquo;Наука&raquo;, 1986.</li>
+<li><strong>Замаровский&nbsp;В.</strong>, <em><a href="annotations/Z26.html">Их величества пирамиды</em></a>, <nobr>2-е изд</nobr>. Пер. со словацкого О.&nbsp;М.&nbsp;Малевича, Послесл. Н.&nbsp;С.&nbsp;Петровского, И.&nbsp;А.&nbsp;Стучевского. М., &laquo;Наука&raquo;, 1986.</li>
 
-<li><strong>Кеес Герман</strong>, <em>Заупокойные верования древних египтян. От истоков и&nbsp;до исхода Среднего Царства</em>, под науч. ред. Четвертухина&nbsp;А.&nbsp;С., СПб.: &laquo;Нева&raquo;, 2005.</li>
+<li><strong>Кеес Герман</strong>, <cite>Заупокойные верования древних египтян. От истоков и&nbsp;до исхода Среднего Царства</cite>, под науч. ред. Четвертухина&nbsp;А.&nbsp;С., СПб.: &laquo;Нева&raquo;, 2005.</li>
 
-<li><strong>Коростовцев&nbsp;М.&nbsp;А.</strong>, <em>Писцы Древнего Египта</em>, под общ. ред. Четвертухина&nbsp;А.&nbsp;С., СПб.: &laquo;Нева&raquo;, &laquo;Летний Сад&raquo;, 2001 (1962).</li>
+<li><strong>Коростовцев&nbsp;М.&nbsp;А.</strong>, <cite>Писцы Древнего Египта</cite>, под общ. ред. Четвертухина&nbsp;А.&nbsp;С., СПб.: &laquo;Нева&raquo;, &laquo;Летний Сад&raquo;, 2001 (1962).</li>
 
 <li><strong>Матье М. Э.</strong>, <em><a href="annotations/M35.html">Во времена Нефертити</a></em>, Л.-М., &laquo;Искусство&raquo;, 1965&nbsp;г.</li>
 
 <li><strong>Матье&nbsp;М.&nbsp;Э.</strong>, <em>Искусство Древнего Египта</em>, СПб.: &laquo;Коло&raquo;, &laquo;Университетская книга&raquo;, 2005 (1961).</li>
 
-<li><strong>Монтэ&nbsp;П.</strong>, <em><a href="annotations/M77.html">Египет Рамсесов. Повседневная жизнь египтян во времена великих фараонов</a></em>. пер с франц. Ф.&nbsp;Л.&nbsp;Мендельсона. Послесл. О.&nbsp;В.&nbsp;Томашевич. М.: Наука, Главная редакция восточной литературы, 1989.</li>
+<li><strong>Монтэ&nbsp;П.</strong>, <cite><a href="annotations/M77.html">Египет Рамсесов. Повседневная жизнь египтян во времена великих фараонов</a></cite>. пер с франц. Ф.&nbsp;Л.&nbsp;Мендельсона. Послесл. О.&nbsp;В.&nbsp;Томашевич. М.: Наука, Главная редакция восточной литературы, 1989.</li>
 
 <li>&laquo;<em><a href="annotations/S59.html">Сокровища Египта</a></em>&raquo;, / Под ред. <strong>Алессандро Бонджоанни</strong>, <strong>Марии Соле Кроче</strong> / пер. с англ. Ильина&nbsp;Е., Лисицына&nbsp;Т., Седелкина&nbsp;Т., М.: Астрель, 2003.</li>
 
-<li><strong>Струве&nbsp;В.&nbsp;В.</strong>, <em>Манефон и&nbsp;его время</em>, СПб.: &laquo;Нева&raquo;, &laquo;Летний Сад&raquo;, 2003 (1928&ndash;1941&nbsp;гг.).</li>
+<li><strong>Струве&nbsp;В.&nbsp;В.</strong>, <cite>Манефон и&nbsp;его время</cite>, СПб.: &laquo;Нева&raquo;, &laquo;Летний Сад&raquo;, 2003 (1928&ndash;1941&nbsp;гг.).</li>
 
-<li><em><a href="annotations/T30.html">Тексты пирамид</a></em>, под общ. ред. <strong>Четвертухина А.&nbsp;С.</strong>, СПб.: &laquo;Нева&raquo;, &laquo;Летний Сад&raquo;, 2000.</li>
+<li><cite><a href="annotations/T30.html">Тексты пирамид</a></cite>, под общ. ред. <strong>Четвертухина А.&nbsp;С.</strong>, СПб.: &laquo;Нева&raquo;, &laquo;Летний Сад&raquo;, 2000.</li>
 
-<li><strong>Томсинов&nbsp;В.&nbsp;А.</strong>, <em>Краткая история египтологии</em>. М.: Издательство &laquo;Зерцало&raquo;: Издательский дом &laquo;Вече&raquo;, 2004.</li>
+<li><strong>Томсинов&nbsp;В.&nbsp;А.</strong>, <cite>Краткая история египтологии</cite>. М.: Издательство &laquo;Зерцало&raquo;: Издательский дом &laquo;Вече&raquo;, 2004.</li>
 
-<li><strong>Тураев&nbsp;Б.&nbsp;А.</strong>, <em>Бог Тот</em>, СПб.: &laquo;Нева&raquo;, &laquo;Летний Сад&raquo;, 2002 (1898).</li>
+<li><strong>Тураев&nbsp;Б.&nbsp;А.</strong>, <cite>Бог Тот</cite>, СПб.: &laquo;Нева&raquo;, &laquo;Летний Сад&raquo;, 2002 (1898).</li>
 
-<li><strong>Шово&nbsp;М.</strong>, <em><a href="annotations/Sch78.html">Повседневная жизнь Египта во времена Клеопатры</a></em>, / Пер. с&nbsp;фр. Е.&nbsp;Е.&nbsp;Масловой, М.: &laquo;Молодая гвардия&raquo;, 2004.</li>
+<li><strong>Шово&nbsp;М.</strong>, <cite><a href="annotations/Sch78.html">Повседневная жизнь Египта во времена Клеопатры</a></cite>, / Пер. с&nbsp;фр. Е.&nbsp;Е.&nbsp;Масловой, М.: &laquo;Молодая гвардия&raquo;, 2004.</li>
 
-<li><strong>Эмери&nbsp;У.&nbsp;Б.</strong>, <em>Архаический Египет</em>, СПб.: &laquo;Нева&raquo;, &laquo;Летний Сад&raquo;, 2001 (1961).</li>
+<li><strong>Эмери&nbsp;У.&nbsp;Б.</strong>, <cite>Архаический Египет</cite>, СПб.: &laquo;Нева&raquo;, &laquo;Летний Сад&raquo;, 2001 (1961).</li>
 
-<li><strong>Юрьевский&nbsp;А.&nbsp;И.</strong>, <em>Александрия и&nbsp;Египет</em>, СПб.: &laquo;Нева&raquo;, &laquo;Летний Сад&raquo;, 2001 (1978&ndash;1984).</li>
+<li><strong>Юрьевский&nbsp;А.&nbsp;И.</strong>, <cite>Александрия и&nbsp;Египет</cite>, СПб.: &laquo;Нева&raquo;, &laquo;Летний Сад&raquo;, 2001 (1978&ndash;1984).</li>
 
 </ol>
 
@@ -685,33 +640,33 @@
 
 <ol>
 
-<li><strong>Аврелий Виктор</strong>., <em>О&nbsp;цезарях</em> // ВДИ. 1963, №&nbsp;4; 1964, №&nbsp;1&ndash;2.</li>
+<li><strong>Аврелий Виктор</strong>., <cite>О&nbsp;цезарях</cite> // ВДИ. 1963, №&nbsp;4; 1964, №&nbsp;1&ndash;2.</li>
 
-<li><strong>Аммиан Марцеллин</strong>., <em>История</em>. СПб, &laquo;Алетейя&raquo;, 2000.</li>
+<li><strong>Аммиан Марцеллин</strong>., <cite>История</cite>. СПб, &laquo;Алетейя&raquo;, 2000.</li>
 
-<li><strong>Джонс&nbsp;А.&nbsp;Х.&nbsp;М.</strong>, <em>Гибель античного мира</em>., Ростов-на-Дону, 1997.</li>
+<li><strong>Джонс&nbsp;А.&nbsp;Х.&nbsp;М.</strong>, <cite>Гибель античного мира</cite>., Ростов-на-Дону, 1997.</li>
 
-<li><em>Древний Рим. История. Быт. Культура</em>., Из книг современных ученых. /сб./, М., 1997.</li>
+<li><cite>Древний Рим. История. Быт. Культура</cite>., Из книг современных ученых. /сб./, М., 1997.</li>
 
-<li><strong>Дуров&nbsp;В.&nbsp;С.</strong>, <em>Художественная историография Древнего Рима</em>. СПб, 1993.</li>
+<li><strong>Дуров&nbsp;В.&nbsp;С.</strong>, <cite>Художественная историография Древнего Рима</cite>. СПб, 1993.</li>
 
-<li><strong>Евтропий</strong>., <em>Бревиарий от основания города</em>., СПб., &laquo;Алетейя&raquo;, 2001.</li>
+<li><strong>Евтропий</strong>., <a href="annotations/Rim.html"><cite>Бревиарий от основания Города</cite></a>., СПб., &laquo;Алетейя&raquo;, 2001.</li>
 
-<li><em>История Древнего Рима</em>. Под ред. <strong>В.&nbsp;И.&nbsp;Кузищева</strong>.,  М., 1982.</li>
+<li><cite>История Древнего Рима</cite>. Под ред. <strong>В.&nbsp;И.&nbsp;Кузищева</strong>.,  М., 1982.</li>
 
-<li><strong>Ливий Тит</strong>., <em>История Рима от основания города</em>., т.&nbsp;1&ndash;3., 1989&ndash;1991.</li>
+<li><strong>Ливий Тит</strong>., <cite>История Рима от основания города</cite>., т.&nbsp;1&ndash;3., 1989&ndash;1991.</li>
 
-<li><strong>Плутарх</strong>., <em>Сравнительные жизнеописания</em>., т.&nbsp;1&ndash;3., М., &laquo;Наука&raquo;, 1963.</li>
+<li><strong>Плутарх</strong>., <cite>Сравнительные жизнеописания</cite>., т.&nbsp;1&ndash;3., М., &laquo;Наука&raquo;, 1963.</li>
 
-<li><strong>Светоний Транквилл, Гай</strong>., <em>Жизнь двенадцати цезарей</em>., М., &laquo;Наука&raquo;, 1966.</li>
+<li><strong>Светоний Транквилл, Гай</strong>., <cite>Жизнь двенадцати цезарей</cite>., М., &laquo;Наука&raquo;, 1966.</li>
 
-<li><em>Словарь античности</em>., М., 1989.</li>
+<li><cite>Словарь античности</cite>., М., 1989.</li>
 
-<li><strong>Тацит, Корнелий</strong>.,  <em>Анналы. Малые произведения. История</em>., СПб., &laquo;Наука&raquo;, 1993.</li> 
+<li><strong>Тацит, Корнелий</strong>.,  <cite>Анналы. Малые произведения. История</cite>., СПб., &laquo;Наука&raquo;, 1993.</li> 
 
-<li><strong>Цезарь, Гай Юлий</strong>., <em>Записки цезаря и&nbsp;его продолжателей</em>., М., 1962.</li>
+<li><strong>Цезарь, Гай Юлий</strong>., <cite>Записки цезаря и&nbsp;его продолжателей</cite>., М., 1962.</li>
 
-<li><strong>Юстин</strong>, <em>Эпитома сочинения Помпея Трога &laquo;Historiarum Philippicarum&raquo;</em>. М., РОССПЭН, 2006.</li>
+<li><strong>Юстин</strong>, <cite>Эпитома сочинения Помпея Трога &laquo;Historiarum Philippicarum&raquo;</cite>. М., РОССПЭН, 2006.</li>
 
 </ol>
 
@@ -747,7 +702,7 @@
 
 <li><strong>Андреев&nbsp;Ю.&nbsp;В.</strong>, <em>Спарта как тип полиса</em> // Античная Греция. Т.&nbsp;I. М., 1983. с.&nbsp;194&ndash;216.</li>
 
-<li><strong>Андреев&nbsp;Ю.&nbsp;В.</strong>, <em>Архаическая Спарта. Искусство и&nbsp;политика</em>. СПб, &laquo;Нестор-История&raquo;, 2008.</li>
+<li><strong>Андреев&nbsp;Ю.&nbsp;В.</strong>, <em><a href="annotations/Sparta1.html">Архаическая Спарта. Искусство и&nbsp;политика</a></em>. СПб, &laquo;Нестор-История&raquo;, 2008.</li>
 
 <li><strong>Андреев&nbsp;Ю.&nbsp;В.</strong>, <em>Мужские союзы в&nbsp;дорийских городах-государствах (Спарта и&nbsp;Крит)</em>, СПб, &laquo;Алетейя&raquo;, 2004.</li>
 
@@ -805,7 +760,7 @@
 
 <li><strong>Аппиан</strong>. <em>Сирийские дела</em>.  /в&nbsp;кн. &laquo;Римские войны&raquo; /, СПб, &laquo;Алетейя&raquo;, 1994.</li>
 
-<li><strong>Арриан</strong>. <em><a href="annotations/Alexandr.html">Поход Александра</a></em>., М., &laquo;Миф&raquo;, 1993.</li>
+<li><strong>Арриан</strong>. <em><a href="annotations/Alexandr.html">Поход Александра</a></em></cite>., М., &laquo;Миф&raquo;, 1993.</li>
 
 <li>Диодор Сицилийский &laquo;Историческая библиотека&raquo;. ч.&nbsp;5&ndash;6., В&nbsp;СПб при Императорской АН., 1775.</li>
 
@@ -865,6 +820,8 @@ alt="Рейтинг@Mail.ru"/></a><!--/COUNTER-->&nbsp;<a href="http://u8470.22.
 
 </table>
 
+
+<!-- copyright (i5) --><div align="center"><a href="http://www.ucoz.ru/" title="Создать сайт бесплатно"><img style="margin:0;padding:0;border:0;" alt="Hosted by uCoz" src="http://s205.ucoz.net/img/cp/9.gif" width="80" height="15" title="Hosted by uCoz" /></a><br /></div><!-- /copyright -->
 </body>
 
 

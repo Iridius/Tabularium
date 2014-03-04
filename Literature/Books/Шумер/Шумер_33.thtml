@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="utf-8"?>
 <attributes>
     <attribute>
         <name>output</name>
@@ -10,12 +10,12 @@
    </attribute>
     <attribute>
         <name>{$Author}</name>
-        <value>Крамер. С. М</value>
+        <value>Крамер С. М.</value>
 	<template>{$Templates}\Literature\Author.template</template>
     </attribute>
     <attribute>
         <name>{$BookName}</name>
-        <value>История начинается в Шумере</value>
+        <value>История начинается в Шумере.</value>
 	<template>{$Templates}\Literature\BookName.template</template>
     </attribute>
     <attribute>
@@ -24,7 +24,7 @@
     </attribute>
     <attribute>
         <name>{$Publishing}</name>
-        <value>Наука</value>
+        <value>Главная редакция восточной литеретуры издательства &amp;laquo;Наука</value>
     </attribute>
     <attribute>
         <name>{$Year}</name>

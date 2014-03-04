@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="utf-8"?>
 <attributes>
     <attribute>
         <name>output</name>
@@ -10,17 +10,17 @@
    </attribute>
     <attribute>
         <name>{$Author}</name>
-        <value>Замаровский В</value>
+        <value>Замаровский В.</value>
 	<template>{$Templates}\Literature\Author.template</template>
     </attribute>
     <attribute>
         <name>{$BookName}</name>
-        <value>&lt;a href="annotations/Z26.html"&gt;Их величества пирамиды&lt;/a&gt;</value>
+        <value>&lt;a href="annotations/Z26.html"&gt;Их величества пирамиды</value>
 	<template>{$Templates}\Literature\BookName.template</template>
     </attribute>
     <attribute>
         <name>{$City}</name>
-        <value></value>
+        <value>Малевича</value>
     </attribute>
     <attribute>
         <name>{$Publishing}</name>

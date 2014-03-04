@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="utf-8"?>
 <attributes>
     <attribute>
         <name>output</name>
@@ -10,17 +10,17 @@
    </attribute>
     <attribute>
         <name>{$Author}</name>
-        <value>Вейс Г</value>
+        <value>Вейс Г.</value>
 	<template>{$Templates}\Literature\Author.template</template>
     </attribute>
     <attribute>
         <name>{$BookName}</name>
-        <value>История культуры народов мира. Ассирия. Вавилон. Персия. Первые сверхдержавы</value>
+        <value>История культуры народов мира. Ассирия. Вавилон. Персия. Первые сверхдержавы.</value>
 	<template>{$Templates}\Literature\BookName.template</template>
     </attribute>
     <attribute>
         <name>{$City}</name>
-        <value></value>
+        <value>М.</value>
     </attribute>
     <attribute>
         <name>{$Publishing}</name>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="utf-8"?>
 <attributes>
     <attribute>
         <name>output</name>
@@ -10,12 +10,12 @@
    </attribute>
     <attribute>
         <name>{$Author}</name>
-        <value>Соколов  Г.  И</value>
+        <value>Соколов  Г.  И.</value>
 	<template>{$Templates}\Literature\Author.template</template>
     </attribute>
     <attribute>
         <name>{$BookName}</name>
-        <value>Искусство этрусков</value>
+        <value>Искусство этрусков.</value>
 	<template>{$Templates}\Literature\BookName.template</template>
     </attribute>
     <attribute>
