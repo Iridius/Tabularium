@@ -1,8 +1,8 @@
-<ul id="MainMenu">
-	<li><a href="{$BasePath}briefing.html">Коротко<br />о разном</a></li>
-	<li><a href="{$BasePath}articles/articles.html">Статьи<br />и тексты</a></li>
-	<li><a href="{$BasePath}persons.html">Персоналии</a></li>
-	<li><a href="{$BasePath}literature.html">Литература</a></li>
-	<li><a href="{$BasePath}links/partners.html">О проекте.<br />Партнеры</a></li>
+п»ї<ul id="MainMenu">
+	<li><a href="{$BasePath}briefing.html">РљРѕСЂРѕС‚РєРѕ<br />Рѕ СЂР°Р·РЅРѕРј</a></li>
+	<li><a href="{$BasePath}articles/articles.html">РЎС‚Р°С‚СЊРё<br />Рё С‚РµРєСЃС‚С‹</a></li>
+	<li><a href="{$BasePath}persons.html">РџРµСЂСЃРѕРЅР°Р»РёРё</a></li>
+	<li><a href="{$BasePath}literature.html">Р›РёС‚РµСЂР°С‚СѓСЂР°</a></li>
+	<li><a href="{$BasePath}links/partners.html">Рћ РїСЂРѕРµРєС‚Рµ.<br />РџР°СЂС‚РЅРµСЂС‹</a></li>
 </ul>
 <br clear="left"/>

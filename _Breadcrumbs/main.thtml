@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+п»ї<?xml version="1.0" encoding="windows-1251"?>
 <attributes>
     <attribute>
         <name>{$MainTemplate}</name>
@@ -6,7 +6,7 @@
     </attribute>
     <attribute>
         <name>{$Name}</name>
-        <value>Главная</value>
+        <value>Р“Р»Р°РІРЅР°СЏ</value>
     </attribute>
     <attribute>
         <name>{$Link}</name>

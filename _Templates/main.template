@@ -1,8 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+п»ї<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-	<meta http-equiv="content-type" content="text/html;charset=windows-1251">
-	<title>Tabularium: личность в истории</title>
+	<title>Tabularium: Р»РёС‡РЅРѕСЃС‚СЊ РІ РёСЃС‚РѕСЂРёРё</title>
 	<link href="css/basic.css" type="text/css" rel="stylesheet" />
 	<link href="css/columns.css" type="text/css" rel="stylesheet" />
 </head>
@@ -11,9 +10,9 @@
 <div id="Workspace">
     <div id="Title">
         <a href="index.html"><img src="images/mummy.gif" alt="" align="left" /></a>
-        <h1><a href="index.html">Личность в истории</a></h1>
-        <h4>краткая энциклопедия</h4>
-        <p>Проект &laquo;<strong>Tabularium: личность в истории</strong>&raquo; посвящен людям &mdash; современникам грандиозных исторических событий, носителям редких качеств или людям, взгляды которых опередили их время.</p>
+        <h1><a href="index.html">Р›РёС‡РЅРѕСЃС‚СЊ РІ РёСЃС‚РѕСЂРёРё</a></h1>
+        <h4>РєСЂР°С‚РєР°СЏ СЌРЅС†РёРєР»РѕРїРµРґРёСЏ</h4>
+        <p>РџСЂРѕРµРєС‚ &laquo;<strong>Tabularium: Р»РёС‡РЅРѕСЃС‚СЊ РІ РёСЃС‚РѕСЂРёРё</strong>&raquo; РїРѕСЃРІСЏС‰РµРЅ Р»СЋРґСЏРј &mdash; СЃРѕРІСЂРµРјРµРЅРЅРёРєР°Рј РіСЂР°РЅРґРёРѕР·РЅС‹С… РёСЃС‚РѕСЂРёС‡РµСЃРєРёС… СЃРѕР±С‹С‚РёР№, РЅРѕСЃРёС‚РµР»СЏРј СЂРµРґРєРёС… РєР°С‡РµСЃС‚РІ РёР»Рё Р»СЋРґСЏРј, РІР·РіР»СЏРґС‹ РєРѕС‚РѕСЂС‹С… РѕРїРµСЂРµРґРёР»Рё РёС… РІСЂРµРјСЏ.</p>
     </div>
     {$MainMenu}
 {$Content}
