@@ -10,25 +10,25 @@
    </attribute>
     <attribute>
         <name>{$Author}</name>
-        <value>{{$Author}}</value>
+        <value>Стингл. М.</value>
 	<template>{$Templates}\Literature\Author.template</template>
     </attribute>
     <attribute>
         <name>{$BookName}</name>
-        <value>{{$BookName}}</value>
+        <value>Государство инков. Слава и смерть «сыновей солнца».</value>
 	<template>{$Templates}\Literature\BookName.template</template>
     </attribute>
     <attribute>
         <name>{$City}</name>
-        <value>{{$City}}</value>
+        <value>М.</value>
     </attribute>
     <attribute>
         <name>{$Publishing}</name>
-        <value>{{$Publishing}}</value>
+        <value>Прогресс</value>
 	<template>{$Templates}\Literature\Publishing.template</template>
     </attribute>
     <attribute>
         <name>{$Year}</name>
-        <value>{{$Year}}</value>
+        <value>1986</value>
     </attribute>
 </attributes>

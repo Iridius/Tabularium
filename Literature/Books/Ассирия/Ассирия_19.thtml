@@ -10,25 +10,25 @@
    </attribute>
     <attribute>
         <name>{$Author}</name>
-        <value>{{$Author}}</value>
+        <value>Никольский М. В.</value>
 	<template>{$Templates}\Literature\Author.template</template>
     </attribute>
     <attribute>
         <name>{$BookName}</name>
-        <value>{{$BookName}}</value>
+        <value>О двух ассирийских фрагментах. Отрывок надписи ассирийского царя Асур-насир-абали (885-860 гг. до Р. Х.).</value>
 	<template>{$Templates}\Literature\BookName.template</template>
     </attribute>
     <attribute>
         <name>{$City}</name>
-        <value>{{$City}}</value>
+        <value>.</value>
     </attribute>
     <attribute>
         <name>{$Publishing}</name>
-        <value>{{$Publishing}}</value>
+        <value>Древности восточные</value>
 	<template>{$Templates}\Literature\Publishing.template</template>
     </attribute>
     <attribute>
         <name>{$Year}</name>
-        <value>{{$Year}}</value>
+        <value>1893</value>
     </attribute>
 </attributes>

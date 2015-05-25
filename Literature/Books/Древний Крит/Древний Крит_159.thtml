@@ -10,25 +10,25 @@
    </attribute>
     <attribute>
         <name>{$Author}</name>
-        <value>{{$Author}}</value>
+        <value>Сидорова Н. А.</value>
 	<template>{$Templates}\Literature\Author.template</template>
     </attribute>
     <attribute>
         <name>{$BookName}</name>
-        <value>{{$BookName}}</value>
+        <value>Искусство Эгейского мира</value>
 	<template>{$Templates}\Literature\BookName.template</template>
     </attribute>
     <attribute>
         <name>{$City}</name>
-        <value>{{$City}}</value>
+        <value>М.</value>
     </attribute>
     <attribute>
         <name>{$Publishing}</name>
-        <value>{{$Publishing}}</value>
+        <value>Искусство</value>
 	<template>{$Templates}\Literature\Publishing.template</template>
     </attribute>
     <attribute>
         <name>{$Year}</name>
-        <value>{{$Year}}</value>
+        <value>1972</value>
     </attribute>
 </attributes>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<attributes>
+    <output>false</output>
+    <MainTemplate>{$Templates}\Literature\Para.template</MainTemplate>
+    <Name>
+        <value>Ассирия</value>
+    </Name>
+    <Books>
+        <value>{$BasePath}\Literature\Books\Ассирия</value>
+        <filter>thtml</filter>
+        <sort>{$Author}</sort>
+        <template>{$Templates}\Literature\Book.template</template>
+    </Books>
+</attributes>
