@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <book>
+	<path><{$BasePath}\Literature\{@Parent}\{@Parent}_{@i}.thtml</path>
+
 	<from><![CDATA[<li>]]></from>
 	<to><![CDATA[</li>]]></to>
-	<path><{$BasePath}\Literature\{@Parent}\{@Parent}_{@i}.thtml</path>
+
 	<Author>
 		<from><![CDATA[<strong>]]></from>
 		<to><![CDATA[</strong>]]></to>

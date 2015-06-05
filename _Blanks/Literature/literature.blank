@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="utf-8"?>
 <attributes>
 	<output>true</output>
+	<path>{@BasePath}literature.thtml</path>
+	
 	<MainTemplate>{$Templates}/main.template</MainTemplate>
 	<CurrentPage>Литература</CurrentPage>
 	<Breadcrumbs>{$Breadcrumbs}/mainpath.thtml</Breadcrumbs>
 	<MainMenu>{$Templates}/mm_literature.template</MainMenu>
+
 	<Content>
 		<from><![CDATA[<td colspan="4">]]></from>
 		<to><![CDATA[</table>]]></to>
 		<value>{$Blanks}/para.blank</value>
-		<path>{$BasePath}\literatute.thtml<path>
+		<path>{$BasePath}\literatute.thtml</path>
 	</Content>
 </attributes>
