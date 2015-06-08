@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <attributes>
 	<output>true</output>
-	<path>{@BasePath}literature.thtml</path>
+	<path>{@BasePath}\literature.thtml</path>
 	
-	<MainTemplate>{$Templates}/main.template</MainTemplate>
+	<MainTemplate>{$Templates}\main.template</MainTemplate>
 	<CurrentPage>Литература</CurrentPage>
-	<Breadcrumbs>{$Breadcrumbs}/mainpath.thtml</Breadcrumbs>
-	<MainMenu>{$Templates}/mm_literature.template</MainMenu>
+	<Breadcrumbs>{$Breadcrumbs}\mainpath.thtml</Breadcrumbs>
+	<MainMenu>{$Templates}\mm_literature.template</MainMenu>
 
 	<Content>
 		<from><![CDATA[<td colspan="4">]]></from>
