@@ -4,7 +4,7 @@
 	<path>{@BasePath}\literature.thtml</path>
 	
 	<MainTemplate>{$Templates}\main.template</MainTemplate>
-	<CurrentPage>Литература</CurrentPage>
+	<CurrentPage>Р›РёС‚РµСЂР°С‚СѓСЂР°</CurrentPage>
 	<Breadcrumbs>{$Breadcrumbs}\mainpath.thtml</Breadcrumbs>
 	<MainMenu>{$Templates}\mm_literature.template</MainMenu>
 
@@ -12,6 +12,5 @@
 		<from><![CDATA[<td colspan="4">]]></from>
 		<to><![CDATA[</table>]]></to>
 		<value>{$Blanks}/para.blank</value>
-		<path>{$BasePath}\literatute.thtml</path>
 	</Content>
 </attributes>

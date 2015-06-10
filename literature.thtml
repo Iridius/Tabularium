@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <attributes>
-	<attribute>
-		<name>{@CurrentPage}</name>
-		<value>Литература</value>
-	</attribute>
-	<attribute>
-		<name>{$Breadcrumbs}</name>
-		<value>{$Breadcrumbs}/mainpath.thtml</value>
-	</attribute>
-	<attribute>
-		<name>{$MainMenu}</name>
-		<value>{$Templates}/mm_literature.template</value>
-	</attribute>
-	<attribute>
-		<name>output</name>
-		<value>true</value>
-	</attribute>
-	<attribute>
-		<name>{$MainTemplate}</name>
-		<value>{$Templates}/main.template</value>
-	</attribute>
-	<attribute>
-		<name>{$Content}</name>
-		<value>{$BasePath}/Literature/Para/</value>
+	<output>true</output>
+	<CurrentPage>Литература</CurrentPage>
+	<MainMenu>{$Templates}\mm_literature.template</MainMenu>
+	<MainTemplate>{$Templates}\main.template</MainTemplate>
+	<Breadcrumbs>{$Breadcrumbs}\mainpath.thtml</Breadcrumbs>
+
+	<Content>
+		<value>{$BasePath}\Literature\Para\</value>
 		<filter>thtml</filter>
-	</attribute>
+	</Content>
+	
 </attributes>

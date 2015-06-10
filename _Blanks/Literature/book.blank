@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <book>
-	<path><{$BasePath}\Literature\{@Parent}\{@Parent}_{@i}.thtml</path>
+	<path><{$BasePath}\Literature\{@Parent}\</path>
+	<file>{@Parent}_{@i}.thtml</file>
 
 	<from><![CDATA[<li>]]></from>
 	<to><![CDATA[</li>]]></to>
