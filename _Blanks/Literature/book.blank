@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<book>
+<attributes>
 	<path><{$BasePath}\Literature\{@Parent}\</path>
 	<file>{@Parent}_{@i}.thtml</file>
 
@@ -21,4 +21,4 @@
 	<Text>
 		<from><![CDATA[</em>]]></from>
 	</Text>
-</book>
+</attributes>

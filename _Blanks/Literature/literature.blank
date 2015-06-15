@@ -5,12 +5,12 @@
 	
 	<MainTemplate>{$Templates}\main.template</MainTemplate>
 	<CurrentPage>Литература</CurrentPage>
-	<Breadcrumbs>{$Breadcrumbs}\mainpath.thtml</Breadcrumbs>
 	<MainMenu>{$Templates}\mm_literature.template</MainMenu>
-
+	<Breadcrumbs>{$Breadcrumbs}\mainpath.thtml</Breadcrumbs>
+	
 	<Content>
 		<from><![CDATA[<td colspan="4">]]></from>
 		<to><![CDATA[</table>]]></to>
-		<value>{$Blanks}/para.blank</value>
+		<value>{$Blanks}\Literature\para.blank</value>
 	</Content>
 </attributes>

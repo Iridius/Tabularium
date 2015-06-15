@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <attributes>
 	<output>true</output>
+	<MainTemplate>{$Templates}\main.template</MainTemplate>
 	<CurrentPage>Литература</CurrentPage>
 	<MainMenu>{$Templates}\mm_literature.template</MainMenu>
-	<MainTemplate>{$Templates}\main.template</MainTemplate>
 	<Breadcrumbs>{$Breadcrumbs}\mainpath.thtml</Breadcrumbs>
 
 	<Content>
