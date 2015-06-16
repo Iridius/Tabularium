@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <attributes>
-	<path><{$BasePath}\Literature\{@Parent}\</path>
-	<file>{@Parent}_{@i}.thtml</file>
-
-	<from><![CDATA[<li>]]></from>
-	<to><![CDATA[</li>]]></to>
-
+	<output>false</output>
+	<MainTemplate>{$Templates}\Literature\Book.template</MainTemplate>
+	<sys:path><{$BasePath}\Literature\{$Parent}\</sys:path>
+	<sys:file>{$Parent}_{$i}.thtml</sys:file>
+	<sys:from><![CDATA[<li>]]></sys:from>
+	<sys:to><![CDATA[</li>]]></sys:to>
 	<Author>
-		<from><![CDATA[<strong>]]></from>
-		<to><![CDATA[</strong>]]></to>
+		<sys:from><![CDATA[<strong>]]></sys:from>
+		<sys:to><![CDATA[</strong>]]></sys:to>
 	</Author>
 	<Name>
-		<from><![CDATA[<em>]]></from>
-		<to><![CDATA[</em>]]></to>
+		<sys:from><![CDATA[<em>]]></sys:from>
+		<sys:to><![CDATA[</em>]]></sys:to>
 	</Name>
 	<Publishing>
-		<from><![CDATA[@laquo;]]></from>
-		<to><![CDATA[@raquo;]]></to>
+		<sys:from><![CDATA[@laquo;]]></sys:from>
+		<sys:to><![CDATA[@raquo;]]></sys:to>
 	</Publishing>
 	<Text>
-		<from><![CDATA[</em>]]></from>
+		<sys:from><![CDATA[</em>]]></sys:from>
 	</Text>
 </attributes>
