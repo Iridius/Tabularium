@@ -2,9 +2,7 @@
 <attributes>
     <output>false</output>
     <MainTemplate>{$Templates}\Literature\Para.template</MainTemplate>
-    <Name>
-        <value>Ассирия</value>
-    </Name>
+    <Name>Ассирия</Name>
     <Books>
         <value>{$BasePath}\Literature\Books\Ассирия</value>
         <filter>thtml</filter>

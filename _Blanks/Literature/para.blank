@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <attributes>
 	<output>false</output>
-	<sys:path>{$BasePath}\Literature\Para\</sys:path>
-	<sys:file>{$Name}.thtml</sys:file>
+	<sys:path>{$BasePath}\Literature\Para\{current:Name}.thtml</sys:path>
 	<MainTemplate>{$Templates}\Literature\Para.template</MainTemplate>
+	<sys:from><![CDATA[<h3>]]></sys:from>
+	<sys:to><![CDATA[</ol>]]></sys:to>
 	<Name>
-		<sys:from><![CDATA[<h4>]]></sys:from>
-		<sys:to><![CDATA[</h4>]]></sys:to>
+		<sys:from><![CDATA[<h3>]]></sys:from>
+		<sys:to><![CDATA[</h3>]]></sys:to>
+		<sys:required>true</sys:required>
 	</Name>
 	<Books>
 		<sys:from><![CDATA[<ol>]]></sys:from>
 		<sys:to><![CDATA[</ol>]]></sys:to>
-		<value>{$Blanks}\book.blank</value>
+		<value>{$Blanks}\Literature\book.blank</value>
+		<filter>thtml</filter>
+        <sort>{$Author}</sort>
+        <template>{$Templates}\Literature\Book.template</template>
 	</Books>
 </attributes>

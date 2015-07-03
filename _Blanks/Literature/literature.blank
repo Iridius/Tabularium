@@ -5,7 +5,6 @@
 	<MainTemplate>{$Templates}\main.template</MainTemplate>
 	<CurrentPage>Литература</CurrentPage>
 	<MainMenu>{$Templates}\mm_literature.template</MainMenu>
-	<Breadcrumbs>{$Breadcrumbs}\mainpath.thtml</Breadcrumbs>
 	<Content>
 		<sys:from><![CDATA[<td colspan="4">]]></sys:from>
 		<sys:to><![CDATA[</table>]]></sys:to>
