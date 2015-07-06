@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <attributes>
 	<output>false</output>
-	<sys:path>{$BasePath}\Literature\Para\{current:Name}.thtml</sys:path>
+	<sys:path>{$BasePath}\Literature\Para\{current:name}.thtml</sys:path>
 	<MainTemplate>{$Templates}\Literature\Para.template</MainTemplate>
 	<sys:from><![CDATA[<h3>]]></sys:from>
 	<sys:to><![CDATA[</ol>]]></sys:to>
